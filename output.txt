@@ -1,0 +1,75 @@
+(llama-cpp-env) C:\Users\vbaddex\OneDrive - Intel Corporation\BVL\PYTHON_T\MCP-Server\mcp-llama\fastmcp\AQI>python AQI_LLM_client.py
+
+📍 Enter location to check AQI (or 'exit' to quit): Delhi
+
+🌫️ Fetching AQI data...
+
+📊 AQI Report for 'Delhi':
+
+📍 Location: Delhi, India
+🗺️ Coordinates: 28.65195, 77.23149
+🌫️ AQI Level: 2 (Fair)
+
+Pollutants (μg/m3):
+- CO: 332.74
+- NO: 0
+- NO2: 7.34
+- O3: 67.44
+- SO2: 1.39
+- PM2.5: 9.48
+- PM10: 16.16
+- NH3: 11.3
+
+
+💡 Getting health precautions...
+
+✅ Health & Safety Advice:
+ You are a health assistant specializing in environmental safety. Based on the Air Quality Index (AQI) report below, provide:
+
+1. General air quality level.
+2. Health hazards associated.
+3. Recommended precautions.
+4. Specific guidance for sensitive groups (children, elderly, those with asthma).
+
+AQI Report:
+
+📍 Location: Delhi, India
+🗺️ Coordinates: 28.65195, 77.23149
+🌫️ AQI Level: 2 (Fair)
+
+Pollutants (μg/m3):
+- CO: 332.74
+- NO: 0
+- NO2: 7.34
+- O3: 67.44
+- SO2: 1.39
+- PM2.5: 9.48
+- PM10: 16.16
+- NH3: 11.3
+
+**General Air Quality Level:**
+The air quality in Delhi is currently classified as Fair, which indicates that the air is relatively clean.
+
+**Health Hazards Associated:**
+Although the AQI is Fair, there are still some potential health hazards associated with the pollutants present in the air. Specifically:
+
+* High levels of PM2.5 and PM10 can exacerbate respiratory issues, such as asthma and chronic obstructive pulmonary disease (COPD).
+* Elevated levels of O3 can cause irritation to the eyes, nose, and throat.
+* Moderate levels of NO2 can contribute to the formation of ground-level ozone, which can also cause respiratory issues.
+
+**Recommended Precautions:**
+
+* Wear a mask rated N95 or N100 when outdoors, especially during peak pollution hours (7 am - 11 am and 4 pm - 7 pm).
+* Avoid strenuous outdoor activities, especially for those with pre-existing respiratory conditions.
+* Keep windows and doors closed, especially during peak pollution hours, to reduce indoor pollutant exposure.
+* Use air purifiers in homes, especially for those with respiratory conditions.
+
+**Specific Guidance for Sensitive Groups:**
+
+* **Children:** Avoid outdoor play during peak pollution hours. Encourage children to wear masks when outdoors and limit their time spent in areas with high pollution levels.
+* **Elderly:** Take extra precautions to avoid outdoor activities during peak pollution hours. Use air purifiers and keep windows and doors closed to reduce indoor pollutant exposure.
+* **Those with Asthma:** Monitor air quality closely and take necessary precautions. Wear a mask rated N95 or N100 when outdoors, and avoid strenuous outdoor activities. Use air purifiers and keep windows and doors closed to reduce indoor pollutant exposure.
+
+Note: The AQI report is based on a 24-hour average and may not reflect the current air quality conditions. Always check the latest AQI report for the most up-to-date information.
+
+📍 Enter location to check AQI (or 'exit' to quit):
