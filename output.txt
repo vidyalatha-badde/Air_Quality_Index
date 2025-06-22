@@ -1,4 +1,4 @@
-(llama-cpp-env) C:\Users\vbaddex\OneDrive - Intel Corporation\BVL\PYTHON_T\MCP-Server\mcp-llama\fastmcp\AQI>python AQI_LLM_client.py
+>python AQI_LLM_client.py
 
 📍 Enter location to check AQI (or 'exit' to quit): Delhi
 
@@ -71,5 +71,3 @@ Although the AQI is Fair, there are still some potential health hazards associat
 * **Those with Asthma:** Monitor air quality closely and take necessary precautions. Wear a mask rated N95 or N100 when outdoors, and avoid strenuous outdoor activities. Use air purifiers and keep windows and doors closed to reduce indoor pollutant exposure.
 
 Note: The AQI report is based on a 24-hour average and may not reflect the current air quality conditions. Always check the latest AQI report for the most up-to-date information.
-
-📍 Enter location to check AQI (or 'exit' to quit):
